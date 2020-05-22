@@ -23,4 +23,4 @@ export GITHUB_TOKEN=<your-token-here>
 ## Example output
 
 
-![](images/screeshot.png)
+![](images/screenshot.png)
