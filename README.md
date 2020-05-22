@@ -3,7 +3,7 @@
 [Beehive's](https://github.com/muesli/beehive) embedding example that demonstrates:
 
 * How to embed Beehive and take advantage of the [hives](https://github.com/muesli/beehive/tree/master/bees) available.
-* Use a custom out-of-tree hive for hives that aren't useful for the general audience or need to be private.
+* How to use a custom out-of-tree hive for hives that aren't useful for the general audience or need to be private.
 
 Uses the [experimental embedding API](https://github.com/muesli/beehive/pull/309).
 
