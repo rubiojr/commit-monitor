@@ -53,7 +53,7 @@ func main() {
 			Name: "text",
 			// prints something like: ** New commit in owner/repo ** for every commit
 			Value: formatText(`{{ Bold (Foreground "#FF0000" "**") }}`) +
-				" New commit in {{.repo}}" +
+				" New commit in {{.repo}} " +
 				formatText(`{{ Bold (Foreground "#FF0000" "**") }}`) +
 				"\n" +
 				"{{.message}}\n",
